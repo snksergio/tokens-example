@@ -1,0 +1,30 @@
+/**
+ * Do not edit directly
+ * Generated on Sat, 16 Apr 2022 20:09:30 GMT
+ */
+
+:root {
+  --colors-danger-100: #79062F;
+  --colors-danger-90: #910E32;
+  --colors-danger-80: #D92A3D;
+  --colors-danger-60: #FC7F73;
+  --colors-danger-40: #FCA28F;
+  --colors-danger-20: #FDC9B5;
+  --colors-danger-10: #FDE7D9;
+  --colors-primary-primary-40: #799BFF;
+  --colors-primary-100: #0D3879;
+  --colors-primary-90: #0043B8;
+  --colors-primary-80: #3366FF;
+  --colors-primary-60: #507CFF;
+  --colors-primary-20: #C6D4FF;
+  --colors-primary-10: #EBF0FF;
+  --colors-neutral-100: #181F32;
+  --colors-neutral-90: #596579;
+  --colors-neutral-80: #7B8698;
+  --colors-neutral-60: #A6B0C0;
+  --colors-neutral-40: #D0D7E2;
+  --colors-neutral-20: #E6EAF0;
+  --colors-neutral-10: #F3F5F8;
+  --colors-semantics-link: var(--colors-primary-80);
+  --colors-semantics-critical: var(--colors-danger-80);
+}
