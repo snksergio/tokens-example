@@ -5,9 +5,7 @@ Material complementar para o aprendizado sobre Tokens Design
 
 ### Clone o repositório e vá para pasta do projeto
 
-> Fazendo o download dos arquivos ou
-
-> git clone https://github.com/snksergio/Boilerplate.git && cd Boilerplate
+> Fazendo o download dos arquivos ou git clone https://github.com/snksergio/tokens-example && cd Boilerplate
 
 ### Instalando Dependências
 
